@@ -2,7 +2,7 @@
 Practica 10 lista para entregar
 */
 # Saidas-dixitais-P10
-Segunda prova oficial
+Segunda proba oficial
 // C++ code
 //
 void setup()
