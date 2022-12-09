@@ -22,3 +22,4 @@ void loop()
   digitalWrite(12, LOW);
   delay(4000); // Wait for 4000 millisecond(s)
 }
+// non deixa gardar se non fago ningun cambio
